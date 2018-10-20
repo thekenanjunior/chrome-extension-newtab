@@ -26,8 +26,7 @@
 
     "content_scripts": [
         {
-            "matches": ["http://*/*", "https://*/*"],
-            "js": ["myScript.js"]
+            "matches": ["http://*/*", "https://*/*"]
         }
     ],
 
@@ -35,6 +34,4 @@
      "tabs", 
      "https://*/*"
     ]
-    
-
 }
