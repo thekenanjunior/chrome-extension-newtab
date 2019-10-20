@@ -2,8 +2,8 @@
     "manifest_version": 2,
 
     "name": "Kenan Junior",
-    "description": "Official Google Chrome extension of KenanJunior.com.",
-    "version": "1.0",
+    "description": "Simple Chrome Extension that changes your New Tab into breathtaking Blue Universe",
+    "version": "2.0",
 
     "browser_action": {
         "default_icon": "icon.png"
